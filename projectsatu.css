@@ -28,12 +28,10 @@ header {
     z-index: 10;
 }
 
-.logo {
-  font-size: 36px;
-  padding: 20px;
-  color : white;
+.header-logo {
+    font-size: 36px;
+    padding: 20px;
 }
-
 
 .header-left {
   float: left;
@@ -161,3 +159,29 @@ header {
   color: #b3aeb5;
 }
 /* end destinasi higlight */
+footer {
+  background-color: #d6e92c71;
+  color: #a2a75c;
+  height: 75px;
+  width: 100%;
+  position :fixed;
+  top: 0;
+  z-index: 10;
+}
+.footer-logo {
+  font-size: 30px;
+  padding: 20px;
+}
+.footer-center {
+  float: center;
+  margin-bottom: -25px;
+}
+
+.footer-center li {
+  line-height: 85px;
+  padding: 0 25px;
+  color: rgb(165, 172, 66);
+  display: block;
+  text-align: center;
+  transition: all 0.5s;
+}
