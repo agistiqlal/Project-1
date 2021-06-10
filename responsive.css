@@ -24,15 +24,17 @@
     }
 
     .top-wrapper{
-      text-align : left; 
+      text-align : left;
     }
 
     .header-right {
       display: none;
     }
-    .menu-icon{
+
+    .menu-icon {
       display: block;
     }
+
     .top-wrapper h1{
       font-size : 24px;
       line-height : 36px;
@@ -50,7 +52,7 @@
     .heading h2 {
       font-size: 24px;
     }
-    
+
     .destination {
       width: 100%;
       padding-bottom: 20px;
